@@ -6,11 +6,6 @@
 - 💬 Telegram: https://t.me/m4r5ID <br/>
 - ⚡ Fun fact: Tukang Bohong 😅 <br/><br/>
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvplID&layout=compact&theme=radical&card_width=800" />
-  </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvplID&" alt="mvplID" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvplID&show_icons=true&locale=en&layout=compact" alt="devillD" /></p>
