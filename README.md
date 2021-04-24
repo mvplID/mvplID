@@ -5,8 +5,8 @@
 - 💬 Telegram: https://t.me/m4r5ID <br/>
 - ⚡ Fun fact: Tukang Bohong 😅 <br/><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mvplID&show_icons=true&locale=en" alt="mvplID" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mvplID&show_icons=true&locale=en&count_private=true" alt="mvplID" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvplID&" alt="mvplID" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvplID&count_private=true" alt="mvplID" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvplID&show_icons=true&locale=en&layout=compact" alt="devillD" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvplID&show_icons=true&locale=en&layout=compact&count_private=true" alt="devillD" /></p>
