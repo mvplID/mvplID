@@ -12,7 +12,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvplID&count_private=true" alt="mvplID" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvplID&show_icons=true&locale=en&layout=compact&count_private=true" alt="mvplID" /></p>
-_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tk007-git)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mvplID)  
   
